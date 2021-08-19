@@ -8,6 +8,7 @@ A webcam that detects the folded posture and change its layout accordingly to im
 
 This is a webcam created by Samsung Internet to showcase the device posture API on a Samsung Galaxy Flip using WebRTC. 
 You can follow the step by step codelab to recreate this yourself with the starter kit: 
+https://github.com/SamsungInternet/webcam-fold-starterkit
 
 ### Prerequisites
 
