@@ -96,7 +96,7 @@ button {
 
 
 
-@media (screen-fold-posture: laptop) {
+@media (device-posture: folded)  {
   
    body {
      display: flex;
