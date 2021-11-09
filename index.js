@@ -1,4 +1,3 @@
-(function() {
   let width = 320;
   let height = 0;
 
@@ -115,4 +114,4 @@
 
   //Run startup after loading
   window.addEventListener("load", startup, false);
-})();
+
