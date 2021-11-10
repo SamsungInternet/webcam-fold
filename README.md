@@ -17,3 +17,6 @@ https://github.com/SamsungInternet/webcam-fold-starterkit
 - For testing: A foldable device / [Samsung Remote Test Lab Account](https://developer.samsung.com/remote-test-lab) / [Device Posture API Polyfill](https://github.com/w3c/device-posture/tree/gh-pages/polyfill)
 
 ![alt text](https://cdn.glitch.com/13771a9f-c66b-4a73-87e9-b9fe0f4bb542%2Fzip.jpg?v=1629114185887 "Samsung Galaxy Flip")
+
+
+Please let us know how it went [here](https://docs.google.com/forms/d/e/1FAIpQLSeai6Bwqle_ANIdRxRPgN5gkc0rvyuvfbsHTt9rasiMqf9x0g/viewform), your feedback is really important as it will be part of the discussion in the W3C Devices and Sensors Group. Join the conversation!   
